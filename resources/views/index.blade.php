@@ -226,6 +226,9 @@
                                 <li>
                                     Web Developer
                                 </li>
+                                <li>
+                                    Digital Marketer
+                                </li>
                             </ul>
                         </div> <!--end s-about__block -->
 
@@ -393,10 +396,10 @@
 
                 <div class="column counter-items__item">
                     <div class="num">
-                        80
+                        15
                         <span>+</span>
                     </div>
-                    <h5>Happy Customers</h5>
+                    <h5>Pelanggan yang Senang</h5>
                     <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     Vel harum magni quae voluptate error quo repellendus inventore 
@@ -406,10 +409,10 @@
 
                 <div class="column counter-items__item">
                     <div class="num">
-                        120
+                        20
                         <span>+</span>
                     </div>
-                    <h5>Projects Completed</h5>
+                    <h5>Proyek Selesai</h5>
                     <p>
                     Nunc interdum lacus sit amet orci. Vestibulum dapibus nunc ac augue. 
                     Fusce vel dui. In ac felis 
@@ -419,10 +422,10 @@
 
                 <div class="column counter-items__item">
                     <div class="num">
-                        23k
+                        5k
                         <span>+</span>
                     </div>
-                    <h5>Lines of Code</h5>
+                    <h5>Baris Kode</h5>
                     <p>
                     Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci.
                     Nisi eaque consequatur. Voluptatem dignissimos ut ducimus
@@ -431,10 +434,10 @@
 
                 <div class="column counter-items__item">
                     <div class="num">
-                        85
+                        12
                         <span>+</span>
                     </div>
-                    <h5>Positive Feedback</h5>
+                    <h5>Masukan yang baik</h5>
                     <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel harum magni quae voluptate error 
                     quo repellendus inventore laborum ex veniam.
